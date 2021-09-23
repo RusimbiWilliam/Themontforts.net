@@ -1,2 +1,2 @@
-# taganire.net
+# tuganire.net
 my website
